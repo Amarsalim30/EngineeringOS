@@ -3,5 +3,7 @@
   "dataview",
   "obsidian-linter",
   "obsidian-git",
-  "obsidian-tasks-plugin"
+  "obsidian-tasks-plugin",
+  "table-editor-obsidian",
+  "opencode"
 ]
