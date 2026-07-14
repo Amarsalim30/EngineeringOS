@@ -2,7 +2,7 @@
 
 ## Current Projects
 
-- [[KRA Reconciliation API]]
+- [[KRA Reconciliation API/README|KRA Reconciliation API]]
 - [[n8n Workflows]]
 
 ## Today's Tasks

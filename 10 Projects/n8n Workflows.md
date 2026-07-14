@@ -31,6 +31,3 @@ Lead generation automation workflows.
 
 Active — learning n8n through building.
 
-## Related
-
-- [[KRA Reconciliation API]] (SAP data source)

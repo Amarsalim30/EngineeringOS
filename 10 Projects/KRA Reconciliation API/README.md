@@ -26,7 +26,3 @@ Reconciles KRA (Kenya Revenue Authority) tax data — matches sales/purchases be
 ## Status
 
 Active development.
-
-## Related
-
-- [[n8n Workflows]] (SAP integration)
