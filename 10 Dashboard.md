@@ -13,7 +13,7 @@
 - [x] KRA API: Section mappings feature (SAP Field Mappings + normalization refactor)
 - [x] WhatsApp integration paired
 - [ ] Rebuild memory index
-- [ ] Clean up KRA project debt (test DBs, stale plans, dead code)
+- [x] Clean up KRA project debt (test DBs, stale plans, dead code) ✅ 2026-07-16
 - [ ] Populate SecondBrain further
 
 ## Waiting For
