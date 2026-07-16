@@ -29,12 +29,14 @@
 - 
 
 ## Recent Notes
-
-- 
+- [[2026-07-16]] (today)
+- [[20 Knowledge/M-PESA Agent Business Domain|M-PESA Agent Business Domain]]
+- [[20 Knowledge/Uncle M-PESA Request - Open Questions|Uncle M-PESA Open Questions]]
+- [[20 Knowledge/Index|Knowledge Index]]
+- [[10 Projects/Index|Projects Index]]
 
 ## Quick Capture
-
-> 
+> Drop anything here; the daily maintenance cron routes it. Or just say it to Harith.
 
 ## Weekly Goals
 
