@@ -23,6 +23,6 @@ A private engineering wiki for projects, knowledge, playbooks, and learning.
 
 ## Quick Links
 
-- [[Dashboard]]
-- [[Projects/Index]]
+- [[10 Dashboard]]
+- [[Projects/Index|Index]]
 - [[Knowledge/Index]]

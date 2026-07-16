@@ -56,7 +56,7 @@ alembic upgrade head
 # (via POST /api/v1/auth/register)
 
 # Run server
-uvicorn app.main:app --reload
+uv run uvicorn app.main:app --reload --port 8000
 ```
 
 ## Key Docs
