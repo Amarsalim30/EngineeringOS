@@ -4,3 +4,7 @@
 .obsidian/themes/
 .trash/
 .DS_Store
+
+# Live secrets — never commit to this public repo
+00 Inbox/API keys.md
+*.keys

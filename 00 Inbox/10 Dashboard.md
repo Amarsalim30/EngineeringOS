@@ -9,7 +9,7 @@
 
 - [x] EngineeringOS vault setup & GitHub push
 - [x] SecondBrain vault init & GitHub push
-- [x] Harith identity + OpenClaw onboarding
+- [x] Harith Opti works assistant identity + OpenClaw onboarding
 - [x] KRA API: Section mappings feature (SAP Field Mappings + normalization refactor)
 - [x] WhatsApp integration paired
 - [ ] Rebuild memory index
@@ -36,7 +36,7 @@
 - [[10 Projects/Index|Projects Index]]
 
 ## Quick Capture
-> Drop anything here; the daily maintenance cron routes it. Or just say it to Harith.
+> Drop anything here; the daily maintenance cron routes it. Or just say it to Harith Opti works assistant.
 
 ## Weekly Goals
 

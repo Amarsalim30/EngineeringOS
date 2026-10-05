@@ -13,7 +13,7 @@ Make CU number configurable ,can take it from multiple places from SAP payload s
 - Parse multiple KRA CSVs → normalize to Invoices (same operation as now).
 - VAT group auto-assigned by file section via regex on filename (SEC_B→16%, SEC_F→16%, SEC_G→8%, SEC_H→0%, SEC_I→Exempt).
 - Best UX: section→VAT mapping configurable in Settings.
-
+Done
 **Pending task 2 — Settings UI simplification:**
 - Current Settings page is overwhelming / confused / overengineered.
 - Plan to fix the information architecture for clarity.

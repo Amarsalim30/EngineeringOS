@@ -1,6 +1,6 @@
 # KRA — Kenya Revenue Authority: Tax System Research
 
-> **Research note** · compiled 2026-07-16 by Harith (Sentinel)
+> **Research note** · compiled 2026-07-16 by Harith Opti works assistant (Sentinel)
 > Sources: kra.go.ke official publications, KRA pre-populated VAT return guide (27-11-2023), KRA tax rates page, Capital FM / AllAfrica (2026-07-14 fuel VAT extension).
 > **Accuracy flag:** VAT rate regime changed repeatedly via Finance Acts 2023/2024/2025. Treat rates as "as of research date" and verify against current iTax before coding business logic.
 
@@ -128,4 +128,4 @@ The current `section_mappings.py` design (SEC_B→16%, SEC_F→16%, SEC_G→8%, 
 - Capital FM / AllAfrica — "Govt extends 8% VAT on fuel for three more months" (2026-07-14) — https://allafrica.com/stories/202607140453.html
 
 ---
-*Last updated: 2026-07-16 · Harith*
+*Last updated: 2026-07-16 · Harith Opti works assistant*

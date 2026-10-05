@@ -1,7 +1,7 @@
 # M-PESA / T-Kash Agent Business — Domain Reference
 
 > Context: uncle runs (or wants to track) a mobile-money agency. His request: "withdrawals, float, sales, purchases, total."
-> See also: [[Uncle M-PESA Request - Open Questions]] and Harith memory `2026-07-16-uncle-mpesa-research.md`.
+> See also: [[Uncle M-PESA Request - Open Questions]] and Harith Opti works assistant memory `2026-07-16-uncle-mpesa-research.md`.
 
 ## How to get the raw data (for parsing/reconciliation)
 - **Consumer M-PESA statement**: M-PESA app → Statements → pick period → download **PDF** (password = ID number or DOB). Also USSD `*334#`, SMS `STMT` to 456, or email request. Covers up to 5 years via email.
